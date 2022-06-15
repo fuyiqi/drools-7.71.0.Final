@@ -1,0 +1,1 @@
+mvn clean install -Dskip.npm -DskipTests -Dlicense.skip=true -Drat.ignoreErrors=true -T 2C -Denforcer.fail=false
